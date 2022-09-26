@@ -14,7 +14,7 @@
   | 10 90                | 0.11               |
   | 840 11               | 76.36              |
 
-- 003 - Quantidade Gasolina
+- 003 - Quantidade gasolina
   | Exemplos de entrada: | Exemplos de Saída: |
   | :------------------- | :----------------- |
   | 10 85 | 70.833 |
